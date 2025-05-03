@@ -1,2 +1,2 @@
-# SpaseShooter
+# SpaceShooter
 simple game 
